@@ -1,0 +1,509 @@
+2019-06-17 21:37:20 INFO  root:18 - Welcome to Tan's Car Dealership!
+2019-06-17 21:38:53 INFO  root:18 - Welcome to Tan's Car Dealership!
+2019-06-17 21:38:53 INFO  root:18 - Please Select User:
+2019-06-17 21:38:53 INFO  root:18 - (1) Employee
+2019-06-17 21:38:53 INFO  root:18 - (2) Customer
+2019-06-17 21:38:53 INFO  root:18 - (3) New Customer
+2019-06-17 21:40:49 INFO  root:18 - Welcome to Tan's Car Dealership!
+2019-06-17 21:40:49 INFO  root:18 - Please Select User:
+2019-06-17 21:40:49 INFO  root:18 - (1) Employee
+2019-06-17 21:40:49 INFO  root:18 - (2) Customer
+2019-06-17 21:40:49 INFO  root:18 - (3) New Customer
+2019-06-17 21:42:07 INFO  root:18 - Welcome to Tan's Car Dealership!
+2019-06-17 21:42:07 INFO  root:18 - Please Select User:
+2019-06-17 21:42:07 INFO  root:18 - (1) Employee
+2019-06-17 21:42:07 INFO  root:18 - (2) Customer
+2019-06-17 21:42:07 INFO  root:18 - (3) New Customer
+2019-06-17 22:11:05 INFO  root:18 - Welcome to Tan's Car Dealership!
+2019-06-17 22:11:05 INFO  root:18 - Please Select User:
+2019-06-17 22:11:05 INFO  root:18 - (1) Employee
+2019-06-17 22:11:05 INFO  root:18 - (2) Customer
+2019-06-17 22:11:05 INFO  root:18 - (3) New Customer
+2019-06-17 22:11:10 INFO  root:18 - Menu: 
+2019-06-17 22:11:10 INFO  root:18 - 1. Show all existing car in lot.
+2019-06-17 22:11:10 INFO  root:18 - 2. Add a new car to lot.
+2019-06-17 22:11:10 INFO  root:18 - 3. Delete a car from lot.
+2019-06-17 22:11:10 INFO  root:18 - 4. View all payments.
+2019-06-17 22:11:10 INFO  root:18 - 5. Return to login.
+
+
+2019-06-17 22:11:10 INFO  root:18 - 
+
+What would you like to do?
+2019-06-17 22:11:15 INFO  root:18 - Add car to lot
+2019-06-17 22:11:46 INFO  root:18 - 
+
+What would you like to do?
+2019-06-17 22:11:48 INFO  root:18 - List of Cars
+2019-06-17 22:11:48 INFO  root:18 - | #  |   VIN   |   year    |  color    |    make   |   model   |  mileage  |   price    |
+2019-06-17 22:11:48 INFO  root:18 - 
+
+What would you like to do?
+2019-06-17 22:15:12 INFO  root:18 - Welcome to Tan's Car Dealership!
+2019-06-17 22:15:12 INFO  root:18 - Please Select User:
+2019-06-17 22:15:12 INFO  root:18 - (1) Employee
+2019-06-17 22:15:12 INFO  root:18 - (2) Customer
+2019-06-17 22:15:12 INFO  root:18 - (3) New Customer
+2019-06-17 22:15:12 INFO  root:18 - Welcome to Tan's Car Dealership!
+2019-06-17 22:15:12 INFO  root:18 - Please Select User:
+2019-06-17 22:15:12 INFO  root:18 - (1) Employee
+2019-06-17 22:15:12 INFO  root:18 - (2) Customer
+2019-06-17 22:15:12 INFO  root:18 - (3) New Customer
+2019-06-17 22:15:18 INFO  root:18 - Menu: 
+2019-06-17 22:15:18 INFO  root:18 - 1. Show all existing car in lot.
+2019-06-17 22:15:18 INFO  root:18 - 2. Add a new car to lot.
+2019-06-17 22:15:18 INFO  root:18 - 3. Delete a car from lot.
+2019-06-17 22:15:18 INFO  root:18 - 4. View all payments.
+2019-06-17 22:15:18 INFO  root:18 - 5. Return to login.
+
+
+2019-06-17 22:15:18 INFO  root:18 - 
+
+What would you like to do?
+2019-06-17 22:15:20 INFO  root:18 - Add car to lot
+2019-06-17 22:15:44 INFO  root:18 - 
+
+What would you like to do?
+2019-06-17 22:15:47 INFO  root:18 - List of Cars
+2019-06-17 22:15:47 INFO  root:18 - | #  |   VIN   |   year    |  color    |    make   |   model   |  mileage  |   price    |
+2019-06-17 22:15:47 INFO  root:18 - 
+
+What would you like to do?
+2019-06-17 22:27:43 INFO  root:18 - Welcome to Tan's Car Dealership!
+2019-06-17 22:27:43 INFO  root:18 - Please Select User:
+2019-06-17 22:27:43 INFO  root:18 - (1) Employee
+2019-06-17 22:27:43 INFO  root:18 - (2) Customer
+2019-06-17 22:27:43 INFO  root:18 - (3) New Customer
+2019-06-17 22:27:52 INFO  root:18 - Menu: 
+2019-06-17 22:27:52 INFO  root:18 - 1. Show all existing car in lot.
+2019-06-17 22:27:52 INFO  root:18 - 2. Add a new car to lot.
+2019-06-17 22:27:52 INFO  root:18 - 3. Delete a car from lot.
+2019-06-17 22:27:52 INFO  root:18 - 4. View all payments.
+2019-06-17 22:27:52 INFO  root:18 - 5. Return to login.
+
+
+2019-06-17 22:27:52 INFO  root:18 - 
+
+What would you like to do?
+2019-06-17 22:30:27 INFO  root:18 - Welcome to Tan's Car Dealership!
+2019-06-17 22:30:27 INFO  root:18 - Please Select User:
+2019-06-17 22:30:27 INFO  root:18 - (1) Employee
+2019-06-17 22:30:27 INFO  root:18 - (2) Customer
+2019-06-17 22:30:27 INFO  root:18 - (3) New Customer
+2019-06-17 22:30:36 INFO  root:18 - Menu: 
+2019-06-17 22:30:36 INFO  root:18 - 1. Show all existing car in lot.
+2019-06-17 22:30:36 INFO  root:18 - 2. Make offer for car.
+2019-06-17 22:30:36 INFO  root:18 - 3. View owned car.
+2019-06-17 22:30:36 INFO  root:18 - 4. View remaining payments.
+2019-06-17 22:30:36 INFO  root:18 - 5. Return to login.
+
+
+2019-06-17 22:30:36 INFO  root:18 - 
+
+What would you like to do?
+2019-06-17 22:30:38 INFO  root:18 - List of Cars
+2019-06-17 22:30:38 INFO  root:18 - | #  |   year    |  color    |    make   |   model   |  mileage  |   price    |
+2019-06-17 22:30:39 INFO  root:18 - 1    2018      Silver      Toyota      Highlander     15000     35000.0
+2019-06-17 22:30:39 INFO  root:18 - 2    2012      Black      Accord      TL     27000     200000.0
+2019-06-17 22:30:39 INFO  root:18 - 3    2019      Blue      Tesla      Roadster     10000     200000.0
+2019-06-17 22:30:39 INFO  root:18 - 
+
+What would you like to do?
+2019-06-17 22:39:03 INFO  root:18 - Welcome to Tan's Car Dealership!
+2019-06-17 22:39:03 INFO  root:18 - Please Select User:
+2019-06-17 22:39:03 INFO  root:18 - (1) Employee
+2019-06-17 22:39:03 INFO  root:18 - (2) Customer
+2019-06-17 22:39:03 INFO  root:18 - (3) New Customer
+2019-06-17 22:39:11 INFO  root:18 - Menu: 
+2019-06-17 22:39:11 INFO  root:18 - 1. Show all existing car in lot.
+2019-06-17 22:39:11 INFO  root:18 - 2. Add a new car to lot.
+2019-06-17 22:39:11 INFO  root:18 - 3. Delete a car from lot.
+2019-06-17 22:39:11 INFO  root:18 - 4. View all payments.
+2019-06-17 22:39:11 INFO  root:18 - 5. Return to login.
+
+
+2019-06-17 22:39:11 INFO  root:18 - 
+
+What would you like to do?
+2019-06-17 22:39:13 INFO  root:18 - List of Cars
+2019-06-17 22:39:13 INFO  root:18 - | #  |   VIN   |   year    |  color    |    make   |   model   |  mileage  |   price    |
+2019-06-17 22:39:14 INFO  root:18 - 
+
+What would you like to do?
+2019-06-17 22:39:20 INFO  root:18 - Add car to lot
+2019-06-17 22:40:04 INFO  root:18 - 
+
+What would you like to do?
+2019-06-17 22:40:05 INFO  root:18 - List of Cars
+2019-06-17 22:40:05 INFO  root:18 - | #  |   VIN   |   year    |  color    |    make   |   model   |  mileage  |   price    |
+2019-06-17 22:40:05 INFO  root:18 - 
+
+What would you like to do?
+2019-06-17 23:01:49 INFO  root:18 - Welcome to Tan's Car Dealership!
+2019-06-17 23:01:49 INFO  root:18 - Please Select User:
+2019-06-17 23:01:49 INFO  root:18 - (1) Employee
+2019-06-17 23:01:49 INFO  root:18 - (2) Customer
+2019-06-17 23:01:49 INFO  root:18 - (3) New Customer
+2019-06-17 23:05:20 INFO  root:18 - Welcome to Tan's Car Dealership!
+2019-06-17 23:05:20 INFO  root:18 - Please Select User:
+2019-06-17 23:05:20 INFO  root:18 - (1) Employee
+2019-06-17 23:05:20 INFO  root:18 - (2) Customer
+2019-06-17 23:05:20 INFO  root:18 - (3) New Customer
+2019-06-17 23:05:28 INFO  root:18 - Menu: 
+2019-06-17 23:05:28 INFO  root:18 - 1. Show all existing car in lot.
+2019-06-17 23:05:28 INFO  root:18 - 2. Add a new car to lot.
+2019-06-17 23:05:28 INFO  root:18 - 3. Delete a car from lot.
+2019-06-17 23:05:28 INFO  root:18 - 4. View all payments.
+2019-06-17 23:05:28 INFO  root:18 - 5. Return to login.
+
+
+2019-06-17 23:05:28 INFO  root:18 - 
+
+What would you like to do?
+2019-06-17 23:05:29 INFO  root:18 - List of Cars
+2019-06-17 23:05:29 INFO  root:18 - | #  |   VIN   |   year    |  color    |    make   |   model   |  mileage  |   price    |
+2019-06-17 23:05:30 INFO  root:18 - 
+
+What would you like to do?
+2019-06-17 23:05:31 INFO  root:18 - Add car to lot
+2019-06-17 23:06:03 INFO  root:18 - 
+
+What would you like to do?
+2019-06-17 23:16:17 INFO  root:18 - Welcome to Tan's Car Dealership!
+2019-06-17 23:16:17 INFO  root:18 - Please Select User:
+2019-06-17 23:16:17 INFO  root:18 - (1) Employee
+2019-06-17 23:16:17 INFO  root:18 - (2) Customer
+2019-06-17 23:16:17 INFO  root:18 - (3) New Customer
+2019-06-17 23:16:25 INFO  root:18 - Menu: 
+2019-06-17 23:16:25 INFO  root:18 - 1. Show all existing car in lot.
+2019-06-17 23:16:25 INFO  root:18 - 2. Add a new car to lot.
+2019-06-17 23:16:25 INFO  root:18 - 3. Delete a car from lot.
+2019-06-17 23:16:25 INFO  root:18 - 4. View all payments.
+2019-06-17 23:16:25 INFO  root:18 - 5. Return to login.
+
+
+2019-06-17 23:16:25 INFO  root:18 - 
+
+What would you like to do?
+2019-06-17 23:16:27 INFO  root:18 - Add car to lot
+2019-06-17 23:16:58 INFO  root:18 - Adding car
+2019-06-17 23:16:59 INFO  root:18 - 
+
+What would you like to do?
+2019-06-17 23:30:17 INFO  root:18 - Add car to lot
+2019-06-18 09:12:07 INFO  root:18 - Welcome to Tan's Car Dealership!
+2019-06-18 09:12:07 INFO  root:18 - Please Select User:
+2019-06-18 09:12:07 INFO  root:18 - (1) Employee
+2019-06-18 09:12:07 INFO  root:18 - (2) Customer
+2019-06-18 09:12:07 INFO  root:18 - (3) New Customer
+2019-06-18 09:12:14 INFO  root:18 - Menu: 
+2019-06-18 09:12:14 INFO  root:18 - 1. Show all existing car in lot.
+2019-06-18 09:12:14 INFO  root:18 - 2. Add a new car to lot.
+2019-06-18 09:12:14 INFO  root:18 - 3. Delete a car from lot.
+2019-06-18 09:12:14 INFO  root:18 - 4. View all payments.
+2019-06-18 09:12:14 INFO  root:18 - 5. Return to login.
+
+
+2019-06-18 09:12:14 INFO  root:18 - 
+
+What would you like to do?
+2019-06-18 09:12:15 INFO  root:18 - List of Cars
+2019-06-18 09:12:15 INFO  root:18 - | #  |   VIN   |   year    |  color    |    make   |   model   |  mileage  |   price    |
+2019-06-18 09:12:16 INFO  root:18 - 
+
+What would you like to do?
+2019-06-18 09:12:22 INFO  root:18 - Add car to lot
+2019-06-18 09:13:30 INFO  root:18 - Adding car
+2019-06-18 09:13:30 INFO  root:18 - 
+
+What would you like to do?
+2019-06-18 09:19:10 INFO  root:18 - Remove car from lot
+2019-06-18 09:19:10 INFO  root:18 - Please select # of the car you want to delete
+2019-06-18 09:19:10 INFO  root:18 - | #  |   VIN   |   year    |  color    |    make   |   model   |  mileage  |   price    |
+2019-06-18 09:19:10 INFO  root:18 - Delete car #: 
+2019-06-18 09:19:18 INFO  root:18 - 
+
+What would you like to do?
+2019-06-18 09:19:23 INFO  root:18 - List of Cars
+2019-06-18 09:19:23 INFO  root:18 - | #  |   VIN   |   year    |  color    |    make   |   model   |  mileage  |   price    |
+2019-06-18 09:19:23 INFO  root:18 - 
+
+What would you like to do?
+2019-06-18 09:20:24 INFO  root:18 - Welcome to Tan's Car Dealership!
+2019-06-18 09:20:24 INFO  root:18 - Please Select User:
+2019-06-18 09:20:24 INFO  root:18 - (1) Employee
+2019-06-18 09:20:24 INFO  root:18 - (2) Customer
+2019-06-18 09:20:24 INFO  root:18 - (3) New Customer
+2019-06-18 09:20:29 INFO  root:18 - Menu: 
+2019-06-18 09:20:29 INFO  root:18 - 1. Show all existing car in lot.
+2019-06-18 09:20:29 INFO  root:18 - 2. Add a new car to lot.
+2019-06-18 09:20:29 INFO  root:18 - 3. Delete a car from lot.
+2019-06-18 09:20:29 INFO  root:18 - 4. View all payments.
+2019-06-18 09:20:29 INFO  root:18 - 5. Return to login.
+
+
+2019-06-18 09:20:29 INFO  root:18 - 
+
+What would you like to do?
+2019-06-18 09:20:30 INFO  root:18 - Add car to lot
+2019-06-18 09:21:03 INFO  root:18 - Adding car
+2019-06-18 09:21:04 INFO  root:18 - 
+
+What would you like to do?
+2019-06-18 11:56:05 INFO  root:18 - Welcome to Tan's Car Dealership!
+2019-06-18 11:56:05 INFO  root:18 - Please Select User:
+2019-06-18 11:56:05 INFO  root:18 - (1) Employee
+2019-06-18 11:56:05 INFO  root:18 - (2) Customer
+2019-06-18 11:56:05 INFO  root:18 - (3) New Customer
+2019-06-18 14:08:50 INFO  root:18 - Welcome to Tan's Car Dealership!
+2019-06-18 14:08:50 INFO  root:18 - Please Select User:
+2019-06-18 14:08:50 INFO  root:18 - (1) Employee
+2019-06-18 14:08:50 INFO  root:18 - (2) Customer
+2019-06-18 14:08:50 INFO  root:18 - (3) New Customer
+2019-06-18 14:08:57 INFO  root:18 - Menu: 
+2019-06-18 14:08:57 INFO  root:18 - 1. Show all existing car in lot.
+2019-06-18 14:08:57 INFO  root:18 - 2. Add a new car to lot.
+2019-06-18 14:08:57 INFO  root:18 - 3. Delete a car from lot.
+2019-06-18 14:08:57 INFO  root:18 - 4. View all payments.
+2019-06-18 14:08:57 INFO  root:18 - 5. Return to login.
+
+
+2019-06-18 14:08:57 INFO  root:18 - 
+
+What would you like to do?
+2019-06-18 14:09:00 INFO  root:18 - Remove car from lot
+2019-06-18 14:09:00 INFO  root:18 - Please select # of the car you want to delete
+2019-06-18 14:09:00 INFO  root:18 - | #  |   VIN   |   year    |  color    |    make   |   model   |  mileage  |   price    |
+2019-06-18 14:09:00 INFO  root:18 - Delete car #: 
+2019-06-18 14:09:06 INFO  root:18 - 
+
+What would you like to do?
+2019-06-18 14:09:08 INFO  root:18 - List of Cars
+2019-06-18 14:09:08 INFO  root:18 - | #  |   VIN   |   year    |  color    |    make   |   model   |  mileage  |   price    |
+2019-06-18 14:09:08 INFO  root:18 - 
+
+What would you like to do?
+2019-06-18 14:35:52 INFO  root:18 - Welcome to Tan's Car Dealership!
+2019-06-18 14:35:52 INFO  root:18 - Please Select User:
+2019-06-18 14:35:52 INFO  root:18 - (1) Employee
+2019-06-18 14:35:52 INFO  root:18 - (2) Customer
+2019-06-18 14:35:52 INFO  root:18 - (3) New Customer
+2019-06-18 14:50:02 INFO  root:18 - Welcome to Tan's Car Dealership!
+2019-06-18 14:50:02 INFO  root:18 - Please Select User:
+2019-06-18 14:50:02 INFO  root:18 - (1) Employee
+2019-06-18 14:50:02 INFO  root:18 - (2) Customer
+2019-06-18 14:50:02 INFO  root:18 - (3) New Customer
+2019-06-18 14:50:14 INFO  root:18 - Welcome to Tan's Car Dealership!
+2019-06-18 14:50:14 INFO  root:18 - Please Select User:
+2019-06-18 14:50:14 INFO  root:18 - (1) Employee
+2019-06-18 14:50:14 INFO  root:18 - (2) Customer
+2019-06-18 14:50:14 INFO  root:18 - (3) New Customer
+2019-06-18 14:50:20 INFO  root:18 - Menu: 
+2019-06-18 14:50:20 INFO  root:18 - 1. Show all existing car in lot.
+2019-06-18 14:50:20 INFO  root:18 - 2. Add a new car to lot.
+2019-06-18 14:50:20 INFO  root:18 - 3. Delete a car from lot.
+2019-06-18 14:50:20 INFO  root:18 - 4. View all payments.
+2019-06-18 14:50:20 INFO  root:18 - 5. Return to login.
+
+
+2019-06-18 14:50:20 INFO  root:18 - 
+
+What would you like to do?
+2019-06-18 14:50:22 INFO  root:18 - List of Cars
+2019-06-18 14:50:22 INFO  root:18 - | #  |   VIN   |   year    |  color    |    make   |   model   |  mileage  |   price    |
+2019-06-18 14:50:23 INFO  root:18 - 
+
+What would you like to do?
+2019-06-18 14:50:31 INFO  root:18 - Remove car from lot
+2019-06-18 14:50:32 INFO  root:18 - Please select # of the car you want to delete
+2019-06-18 14:50:32 INFO  root:18 - | #  |   VIN   |   year    |  color    |    make   |   model   |  mileage  |   price    |
+2019-06-18 14:50:32 INFO  root:18 - Delete car #: 
+2019-06-18 14:50:41 INFO  root:18 - Delete car #: 
+2019-06-18 14:50:43 INFO  root:18 - 
+
+What would you like to do?
+2019-06-18 14:51:25 INFO  root:18 - Welcome to Tan's Car Dealership!
+2019-06-18 14:51:25 INFO  root:18 - Please Select User:
+2019-06-18 14:51:25 INFO  root:18 - (1) Employee
+2019-06-18 14:51:25 INFO  root:18 - (2) Customer
+2019-06-18 14:51:25 INFO  root:18 - (3) New Customer
+2019-06-18 14:51:33 INFO  root:18 - Menu: 
+2019-06-18 14:51:33 INFO  root:18 - 1. Show all existing car in lot.
+2019-06-18 14:51:33 INFO  root:18 - 2. Add a new car to lot.
+2019-06-18 14:51:33 INFO  root:18 - 3. Delete a car from lot.
+2019-06-18 14:51:33 INFO  root:18 - 4. View all payments.
+2019-06-18 14:51:33 INFO  root:18 - 5. Return to login.
+
+
+2019-06-18 14:51:33 INFO  root:18 - 
+
+What would you like to do?
+2019-06-18 14:51:35 INFO  root:18 - List of Cars
+2019-06-18 14:51:35 INFO  root:18 - | #  |   VIN   |   year    |  color    |    make   |   model   |  mileage  |   price    |
+2019-06-18 14:51:36 INFO  root:18 - 
+
+What would you like to do?
+2019-06-18 14:51:38 INFO  root:18 - Remove car from lot
+2019-06-18 14:51:39 INFO  root:18 - Please select # of the car you want to delete
+2019-06-18 14:51:39 INFO  root:18 - | #  |   VIN   |   year    |  color    |    make   |   model   |  mileage  |   price    |
+2019-06-18 14:51:39 INFO  root:18 - Delete car #: 
+2019-06-18 14:51:43 INFO  root:18 - Delete car #: 
+2019-06-18 14:51:46 INFO  root:18 - 
+
+What would you like to do?
+2019-06-18 15:04:27 INFO  root:18 - Welcome to Tan's Car Dealership!
+2019-06-18 15:04:27 INFO  root:18 - Please Select User:
+2019-06-18 15:04:27 INFO  root:18 - (1) Employee
+2019-06-18 15:04:27 INFO  root:18 - (2) Customer
+2019-06-18 15:04:27 INFO  root:18 - (3) New Customer
+2019-06-18 15:05:01 INFO  root:18 - Menu: 
+2019-06-18 15:05:01 INFO  root:18 - 1. Show all existing car in lot.
+2019-06-18 15:05:01 INFO  root:18 - 2. Add a new car to lot.
+2019-06-18 15:05:01 INFO  root:18 - 3. Delete a car from lot.
+2019-06-18 15:05:01 INFO  root:18 - 4. View all payments.
+2019-06-18 15:05:01 INFO  root:18 - 5. Return to login.
+
+
+2019-06-18 15:05:01 INFO  root:18 - 
+
+What would you like to do?
+2019-06-18 15:05:04 INFO  root:18 - List of Cars
+2019-06-18 15:05:04 INFO  root:18 - | #  |   VIN   |   year    |  color    |    make   |   model   |  mileage  |   price    |
+2019-06-18 15:05:05 INFO  root:18 - 
+
+What would you like to do?
+2019-06-18 15:14:32 INFO  root:18 - Welcome to Tan's Car Dealership!
+2019-06-18 15:14:32 INFO  root:18 - Please Select User:
+2019-06-18 15:14:32 INFO  root:18 - (1) Employee
+2019-06-18 15:14:32 INFO  root:18 - (2) Customer
+2019-06-18 15:14:32 INFO  root:18 - (3) New Customer
+2019-06-18 15:14:41 INFO  root:18 - Menu: 
+2019-06-18 15:14:41 INFO  root:18 - 1. Show all existing car in lot.
+2019-06-18 15:14:41 INFO  root:18 - 2. Add a new car to lot.
+2019-06-18 15:14:41 INFO  root:18 - 3. Delete a car from lot.
+2019-06-18 15:14:41 INFO  root:18 - 4. View all payments.
+2019-06-18 15:14:41 INFO  root:18 - 5. Return to login.
+
+
+2019-06-18 15:14:41 INFO  root:18 - 
+
+What would you like to do?
+2019-06-18 15:14:43 INFO  root:18 - List of Cars
+2019-06-18 15:14:44 INFO  root:18 - | #  |   VIN   |   year    |  color    |    make   |   model   |  mileage  |   price    |
+2019-06-18 15:14:44 INFO  root:18 - 
+
+What would you like to do?
+2019-06-18 15:14:48 INFO  root:18 - Remove car from lot
+2019-06-18 15:14:49 INFO  root:18 - Please select # of the car you want to delete
+2019-06-18 15:14:49 INFO  root:18 - | #  |   VIN   |   year    |  color    |    make   |   model   |  mileage  |   price    |
+2019-06-18 15:14:49 INFO  root:18 - Delete car #: 
+2019-06-18 15:14:50 INFO  root:18 - 
+
+What would you like to do?
+2019-06-18 15:15:38 INFO  root:18 - Welcome to Tan's Car Dealership!
+2019-06-18 15:15:38 INFO  root:18 - Please Select User:
+2019-06-18 15:15:38 INFO  root:18 - (1) Employee
+2019-06-18 15:15:38 INFO  root:18 - (2) Customer
+2019-06-18 15:15:38 INFO  root:18 - (3) New Customer
+2019-06-18 15:20:18 INFO  root:18 - Welcome to Tan's Car Dealership!
+2019-06-18 15:20:18 INFO  root:18 - Please Select User:
+2019-06-18 15:20:18 INFO  root:18 - (1) Employee
+2019-06-18 15:20:18 INFO  root:18 - (2) Customer
+2019-06-18 15:20:18 INFO  root:18 - (3) New Customer
+2019-06-18 15:20:27 INFO  root:18 - Menu: 
+2019-06-18 15:20:27 INFO  root:18 - 1. Show all existing car in lot.
+2019-06-18 15:20:27 INFO  root:18 - 2. Add a new car to lot.
+2019-06-18 15:20:27 INFO  root:18 - 3. Delete a car from lot.
+2019-06-18 15:20:27 INFO  root:18 - 4. View all payments.
+2019-06-18 15:20:27 INFO  root:18 - 5. Return to login.
+
+
+2019-06-18 15:20:27 INFO  root:18 - 
+
+What would you like to do?
+2019-06-18 15:20:29 INFO  root:18 - Remove car from lot
+2019-06-18 15:20:30 INFO  root:18 - Please select # of the car you want to delete
+2019-06-18 15:20:30 INFO  root:18 - | #  |   VIN   |   year    |  color    |    make   |   model   |  mileage  |   price    |
+2019-06-18 15:20:30 INFO  root:18 - Delete car #: 
+2019-06-18 15:20:39 INFO  root:18 - Delete car #: 
+2019-06-18 15:20:40 INFO  root:18 - 
+
+What would you like to do?
+2019-06-18 15:22:18 INFO  root:18 - Welcome to Tan's Car Dealership!
+2019-06-18 15:22:18 INFO  root:18 - Please Select User:
+2019-06-18 15:22:18 INFO  root:18 - (1) Employee
+2019-06-18 15:22:18 INFO  root:18 - (2) Customer
+2019-06-18 15:22:18 INFO  root:18 - (3) New Customer
+2019-06-18 15:22:24 INFO  root:18 - Menu: 
+2019-06-18 15:22:24 INFO  root:18 - 1. Show all existing car in lot.
+2019-06-18 15:22:24 INFO  root:18 - 2. Add a new car to lot.
+2019-06-18 15:22:24 INFO  root:18 - 3. Delete a car from lot.
+2019-06-18 15:22:24 INFO  root:18 - 4. View all payments.
+2019-06-18 15:22:24 INFO  root:18 - 5. Return to login.
+
+
+2019-06-18 15:22:24 INFO  root:18 - 
+
+What would you like to do?
+2019-06-18 15:22:26 INFO  root:18 - Remove car from lot
+2019-06-18 15:22:28 INFO  root:18 - Please select # of the car you want to delete
+2019-06-18 15:22:28 INFO  root:18 - | #  |   VIN   |   year    |  color    |    make   |   model   |  mileage  |   price    |
+2019-06-18 15:22:28 INFO  root:18 - Delete car #: 
+2019-06-18 15:22:31 INFO  root:18 - Delete car #: 
+2019-06-18 15:22:33 INFO  root:18 - 
+
+What would you like to do?
+2019-06-18 15:32:16 INFO  root:18 - Welcome to Tan's Car Dealership!
+2019-06-18 15:32:16 INFO  root:18 - Please Select User:
+2019-06-18 15:32:16 INFO  root:18 - (1) Employee
+2019-06-18 15:32:16 INFO  root:18 - (2) Customer
+2019-06-18 15:32:16 INFO  root:18 - (3) New Customer
+2019-06-18 15:32:27 INFO  root:18 - Welcome to Tan's Car Dealership!
+2019-06-18 15:32:27 INFO  root:18 - Please Select User:
+2019-06-18 15:32:27 INFO  root:18 - (1) Employee
+2019-06-18 15:32:27 INFO  root:18 - (2) Customer
+2019-06-18 15:32:27 INFO  root:18 - (3) New Customer
+2019-06-18 15:32:38 INFO  root:18 - Menu: 
+2019-06-18 15:32:38 INFO  root:18 - 1. Show all existing car in lot.
+2019-06-18 15:32:38 INFO  root:18 - 2. Add a new car to lot.
+2019-06-18 15:32:38 INFO  root:18 - 3. Delete a car from lot.
+2019-06-18 15:32:38 INFO  root:18 - 4. View all payments.
+2019-06-18 15:32:38 INFO  root:18 - 5. Return to login.
+
+
+2019-06-18 15:32:38 INFO  root:18 - 
+
+What would you like to do?
+2019-06-18 15:32:40 INFO  root:18 - Remove car from lot
+2019-06-18 15:32:42 INFO  root:18 - Please select # of the car you want to delete
+2019-06-18 15:32:42 INFO  root:18 - | #  |   VIN   |   year    |  color    |    make   |   model   |  mileage  |   price    |
+2019-06-18 15:32:42 INFO  root:18 - Delete car #: 
+2019-06-18 15:32:45 INFO  root:18 - Delete car #: 
+2019-06-18 15:32:46 INFO  root:18 - 
+
+What would you like to do?
+2019-06-18 15:49:47 INFO  root:18 - Welcome to Tan's Car Dealership!
+2019-06-18 15:49:47 INFO  root:18 - Please Select User:
+2019-06-18 15:49:47 INFO  root:18 - (1) Employee
+2019-06-18 15:49:47 INFO  root:18 - (2) Customer
+2019-06-18 15:49:47 INFO  root:18 - (3) New Customer
+2019-06-18 15:49:54 INFO  root:18 - Menu: 
+2019-06-18 15:49:54 INFO  root:18 - 1. Show all existing car in lot.
+2019-06-18 15:49:54 INFO  root:18 - 2. Add a new car to lot.
+2019-06-18 15:49:54 INFO  root:18 - 3. Delete a car from lot.
+2019-06-18 15:49:54 INFO  root:18 - 4. View all payments.
+2019-06-18 15:49:54 INFO  root:18 - 5. Return to login.
+
+
+2019-06-18 15:49:54 INFO  root:18 - 
+
+What would you like to do?
+2019-06-18 15:49:56 INFO  root:18 - Remove car from lot
+2019-06-18 15:49:58 INFO  root:18 - Please select # of the car you want to delete
+2019-06-18 15:49:58 INFO  root:18 - | #  |   VIN   |   year    |  color    |    make   |   model   |  mileage  |   price    |
+2019-06-18 15:49:58 INFO  root:18 - Delete car #: 
+2019-06-18 15:50:04 INFO  root:18 - Delete car #: 
+2019-06-18 15:50:08 INFO  root:18 - Delete car #: 
+2019-06-18 15:50:10 INFO  root:18 - 
+
+What would you like to do?
